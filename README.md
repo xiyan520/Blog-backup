@@ -4,8 +4,9 @@
 
 官方文档[https://butterfly.js.org/][2]
 
-使用1.4及后续更新的需要配置开启评论不然会有bug
 [外挂标签使用文档][3]
+
+使用1.4及后续更新的需要配置开启评论不然会有bug
 
 [1]: https://github.com/jerryc127/hexo-theme-butterfly.git
 [2]: https://butterfly.js.org/posts/21cfbf15/
