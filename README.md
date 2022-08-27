@@ -45,7 +45,7 @@ hexo clean && hexo g && gulp && hexo d
 ```
 ### 关于代码限高
 
-如果出现报错请在主题配置文件中`highlight_height_limit`设置为`fasle`
+如果出现报错请在主题配置文件中`highlight_height_limit`设置为`false`
 
 > 注意gulp必须在hexo g之后使用
 
