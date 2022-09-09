@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "gulp": "^4.0.2",
-    "hexo": "^6.2.0",
+    "hexo": "^6.3.0",
     "hexo-abbrlink": "^2.2.1",
     "hexo-butterfly-envelope": "^1.0.15",
     "hexo-butterfly-footer-beautify": "^1.0.6",
